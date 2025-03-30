@@ -1,2 +1,1 @@
-# Demo
-Create script for cinematic 
+// README.md - placeholder
