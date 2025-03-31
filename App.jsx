@@ -1,5 +1,5 @@
-import Editor from './pages/Editor';
-import Dashboard from './pages/Dashboard';
+import Editor from './components/Editor';
+import Dashboard from './components/Dashboard';
 
 function App() {
   return (
